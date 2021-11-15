@@ -1,6 +1,6 @@
 ipaddress==1.0.22
 lxml==4.4.1
-pip==19.0.3
+pip==21.1
 py==1.8.0
 pyshark==0.4.2.9
 setuptools==40.8.0
