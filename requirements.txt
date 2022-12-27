@@ -3,4 +3,4 @@ lxml==4.4.1
 pip==19.0.3
 py==1.8.0
 pyshark==0.4.2.9
-setuptools==40.8.0
+setuptools==65.5.1
